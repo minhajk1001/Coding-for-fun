@@ -1,6 +1,6 @@
 
 package arnab;
-public class Arnab {
+public class HappyNumberArnab {
     public static void main(String[] args) {
         String s = "7";
         int ss = Integer.parseInt(s);
